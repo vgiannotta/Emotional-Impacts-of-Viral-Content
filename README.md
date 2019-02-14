@@ -1,14 +1,13 @@
 # Emotional Impacts of Viral Content
 #### Using NLP to Analyze Sentiment in Social Media Comment Threads
 *by Veronica Giannotta*
+
 ### Introduction
 The comments section is one of the most emotionally dense places on the internet.
 
 Every website offers a place where users may leave a comment, from social media sites, to retailers, to news outlets, to personal blogs.
 
 One never knows what to expect when they venture into the comments section, as they may well be met with love, hatred, or anything in between.
-
-  
 
 As user comments have grown in popularity to become a staple of internet behavior, the visibility of consumer content has only increased. This stands to reason - the more people who engage in conversation on a given page, the more eyes on the main content. **Given the reputation of the comments section as an emotionally fraught place, what are the emotional impacts of the most popular internet content?**
 
