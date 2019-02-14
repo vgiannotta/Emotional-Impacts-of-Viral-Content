@@ -1,4 +1,5 @@
-# Emotional-Impacts-of-Viral-Content
+# Emotional Impacts of Viral Content
+#### Using NLP to Analyze Sentiment in Social Media Comment Threads
 *by Veronica Giannotta*
 ### Introduction
 The comments section is one of the most emotionally dense places on the internet.
